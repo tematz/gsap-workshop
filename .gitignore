@@ -1,0 +1,19 @@
+# Arquivos compilados
+*.pyc
+*.pyo
+__pycache__/
+
+# Logs e bancos de dados
+*.log
+*.sqlite3
+
+# Variáveis de ambiente
+.env
+
+# Arquivos específicos de IDE
+.vscode/
+.idea/
+
+# Diretórios de dependências
+venv/
+node_modules/
